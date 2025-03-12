@@ -1,1 +1,8 @@
-# ITEW6
+Project setup
+```
+npm install
+```
+
+### Compiles for development
+```
+npm run serve
