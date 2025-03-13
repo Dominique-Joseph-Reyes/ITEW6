@@ -1,4 +1,4 @@
-# group7
+# Group 7
 
 ## Project setup
 ```
